@@ -25,7 +25,7 @@ public class Settergetter {
         baru.setnilai1(60);
         baru.setnilai2(20);
         
-        //menampilkan nilai dari variabel a dan b di class setget
+        //menampilkan nilai dari angka pertama dan angka kedua di class setget
         System.out.println("Angka Pertama = "+ baru.getnilai1());
         System.out.println("Angka Kedua   = "+ baru.getnilai2());
         
